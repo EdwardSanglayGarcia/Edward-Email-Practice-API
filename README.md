@@ -9,5 +9,6 @@ This is the repository that I will use to further enhance my skills on making We
 - Integration with Twitter Developer API
 - API Consumption
 - Make a Geoservice
+- Make a default pull request template (Done)
 
 ### Total Hours Wasted : 3 hours
