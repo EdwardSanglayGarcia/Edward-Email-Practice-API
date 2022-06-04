@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edward\\source\\repos\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj": {}
+    "C:\\Users\\Edward\\Documents\\Edward-Email-Practice-API\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edward\\source\\repos\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj": {
+    "C:\\Users\\Edward\\Documents\\Edward-Email-Practice-API\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edward\\source\\repos\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Edward\\Documents\\Edward-Email-Practice-API\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj",
         "projectName": "EdwardAPI",
-        "projectPath": "C:\\Users\\Edward\\source\\repos\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj",
+        "projectPath": "C:\\Users\\Edward\\Documents\\Edward-Email-Practice-API\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj",
         "packagesPath": "C:\\Users\\Edward\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edward\\source\\repos\\EdwardAPI\\EdwardAPI\\obj\\",
+        "outputPath": "C:\\Users\\Edward\\Documents\\Edward-Email-Practice-API\\EdwardAPI\\EdwardAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edward\\AppData\\Roaming\\NuGet\\NuGet.Config",
