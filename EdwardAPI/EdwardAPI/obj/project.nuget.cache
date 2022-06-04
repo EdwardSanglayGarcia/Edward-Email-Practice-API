@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dtki3ukuQbirZ99/ew3LBSRMwH4MTnVYaKitMD5698/UWfcRJl4rF7Sujsutw6j+XQ5XlE6ZEkxyJumxH9q/5w==",
+  "dgSpecHash": "uJDTMcvme/3MEoghfMpHrcFisE8CjOeF8d2AfqS7ls7JAy9Ab4Kde+50OrbyXdeGyl+DYSd5fGaJapOOMPZj/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edward\\source\\repos\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj",
+  "projectFilePath": "C:\\Users\\Edward\\Documents\\Edward-Email-Practice-API\\EdwardAPI\\EdwardAPI\\EdwardAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edward\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Edward\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
