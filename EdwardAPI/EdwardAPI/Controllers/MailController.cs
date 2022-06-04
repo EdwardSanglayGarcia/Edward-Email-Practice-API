@@ -109,6 +109,13 @@ namespace EdwardAPI.Controllers
             var operation = await _context.Users.Include(x => x.Person).ToListAsync();
             return operation.AsQueryable();
         }
+
+        [HttpGet]
+        public async Task<IQueryable<User>> GetUsersQueryables()
+        {
+            var operation = await _context.Users.Include(x => x.Person).ToListAsync();
+            return operation.AsQueryable();
+        }
         #endregion
     }
 }
