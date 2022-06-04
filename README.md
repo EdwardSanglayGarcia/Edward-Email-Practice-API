@@ -10,5 +10,8 @@ This is the repository that I will use to further enhance my skills on making We
 - API Consumption
 - Make a Geoservice
 - Make a default pull request template (Done)
+- Filtering
+- Pagination
+- API Keys
 
 ### Total Hours Wasted : 3 hours
