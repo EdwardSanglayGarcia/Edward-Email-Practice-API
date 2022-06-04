@@ -106,19 +106,8 @@ namespace EdwardAPI.Controllers
         [HttpGet]
         public async Task<IQueryable<User>> GetUsersQueryable()
         {
-            //var operation = await _context.Users.ToListAsync();
             var operation = await _context.Users.Include(x => x.Person).ToListAsync();
             return operation.AsQueryable();
-            //Sample
-            //return operation.ToList().Select(myOperation =>
-            //new User
-            //{
-            //    Id = myOperation.Id,
-            //    Person = myOperation.Person
-            //}
-            //).AsQueryable();
-            //Test ko lang muna yung mga markdown
-
         }
         #endregion
     }
