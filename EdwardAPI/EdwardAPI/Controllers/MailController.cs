@@ -109,6 +109,7 @@ namespace EdwardAPI.Controllers
             //var operation = await _context.Users.ToListAsync();
             var operation = await _context.Users.Include(x => x.Person).ToListAsync();
             return operation.AsQueryable();
+            //Sample
             //return operation.ToList().Select(myOperation =>
             //new User
             //{
